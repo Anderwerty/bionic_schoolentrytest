@@ -1,0 +1,5 @@
+2.	An array of the following objects is given:
+-	book description (author(s), title, publisher, annotation, text)
+-	article (author(s), title, journal name, year, N, text)
+-	wiki article (link, title, text)
+Find how many objects contains given key words in titles and/or texts

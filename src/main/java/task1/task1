@@ -1,0 +1,6 @@
+
+1.	Given an array of objects which contains information about one operation of fish sale (name of fish, price of purchase (PP), date of purchase, price of sale(PS), date of sale, sale weight (W))
+
+Create an Income Statement grouped by fish names. Income value is calculated as:
+   Income = (PS – PP – store_days*const) * W
+Here const is some value that contains overheads
